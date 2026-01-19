@@ -1,4 +1,4 @@
-# 🚀 Ściąga z Podstawowych Komend Git
+# 🚀 Komendy Git
 
 Zbiór najważniejszych poleceń Git, pomocny przy codziennej pracy z repozytoriami.
 
